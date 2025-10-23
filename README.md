@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Namrata68
-- 👀 I’m interested in web development
-- 🌱 I’m currently learning masters of computer application
-- 💞️ I’m looking to collaborate on ...
+- 💼 Associate Software Engineer (Python Backend) at Thomson Reuters
+- 🌱 Exploring AI, ML, and Data Science
+- 💞️ I’m looking to collaborate on python, AI, ML projects
 - 📫 How to reach me email : namratabhat2000@gmail.com
 
 <!---
